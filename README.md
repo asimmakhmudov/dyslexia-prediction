@@ -13,6 +13,13 @@ Dyslexia is a neurologically based learning disorder affecting reading and writi
 
 - **Primary Dataset**: [Dyslexic Handwriting Dataset by Oussama Slmani (Kaggle)](https://www.kaggle.com/datasets/oussamaslmani/dyslexic)
 
+
+## Video Explanation
+
+🎥 **[Watch Project Explanation Video](https://drive.google.com/file/d/1sfRGaSyL6o0MNvNuMMOnk5BNQWAonc14/view?usp=sharing)**
+
+This video provides a 7-minute overview of the project, including the dataset, model, methodology, and key results.
+
 ## Contact
 
 For inquiries or collaboration, please contact:  
